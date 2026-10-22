@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">ProxyStar</string>
+    <string name="app_tagline">Improving connection speed, with one tap</string>
+    <string name="hero_loading">Loading</string>
+
+    <string name="discovery_checking">Checking stars: %1$d of %2$d</string>
+    <string name="discovery_stars_count">%1$s · %2$d stars</string>
+
+    <string name="error_connection_title">Connection failed</string>
+    <string name="error_no_sources">No source was reachable — check your internet</string>
+    <string name="error_retry">Retry</string>
+
+    <string name="current_pick">Current pick</string>
+    <string name="connect_telegram">Connect to Telegram</string>
+    <string name="next_pick">Next pick</string>
+    <string name="no_alive">No live proxy found — try again</string>
+    <string name="empty_discovered">No live proxy right now — pull down to check again</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="github_url" translatable="false">https://github.com/DevQissy/ProxyStar</string>
+
+    <string name="confirm_telegram_title" translatable="false">Telegram</string>
+    <string name="confirm_github_title" translatable="false">GitHub</string>
+
+    <string name="confirm_telegram_msg">You\'ll be redirected to Telegram to connect to this proxy.</string>
+    <string name="confirm_github_msg">The project repository will open in your browser.</string>
+    <string name="dont_show_again">Don\'t show again</string>
+    <string name="proceed">Continue</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="action_share">Share</string>
+    <string name="telegram_missing">Telegram is not installed!</string>
+    <string name="share_title">Share proxy</string>
+    <string name="dead">Dead</string>
+
+    <string name="name_uma">Great Bear</string>
+    <string name="name_umi">Little Bear</string>
+    <string name="name_cas">Cassiopeia</string>
+    <string name="name_ori">Orion</string>
+    <string name="name_sco">Scorpius</string>
+    <string name="name_lyr">Lyra</string>
+    <string name="name_cyg">Cygnus</string>
+    <string name="name_leo">Leo</string>
+    <string name="name_gem">Gemini</string>
+    <string name="name_cen">Centaurus</string>
+    <string name="name_sge">Sagitta</string>
+    <string name="name_tri">Triangulum</string>
+    <string name="name_cma">Great Dog</string>
+    <string name="name_aql">Eagle</string>
+    <string name="name_tau">Taurus</string>
+    <string name="name_peg">Pegasus</string>
+    <string name="name_crb">Northern Crown</string>
+    <string name="name_crv">Crow</string>
+    <string name="name_sgr">Sagittarius</string>
+    <string name="name_del">Dolphin</string>
+    <string name="name_and">Andromeda</string>
+    <string name="name_cet">Whale</string>
+    <string name="name_cmi">Little Dog</string>
+    <string name="name_lep">Hare</string>
+    <string name="name_lib">Libra</string>
+    <string name="name_boo">Boötes</string>
+    <string name="name_her">Hercules</string>
+    <string name="name_dra">Draco</string>
+
+    <string name="blurb_uma">The seven-star dipper that points the way to Polaris</string>
+    <string name="blurb_umi">Home of the North Star; its tail-end marks true north</string>
+    <string name="blurb_cas">The queen of the sky with a famous W shape</string>
+    <string name="blurb_ori">The legendary hunter with a straight three-star belt</string>
+    <string name="blurb_sco">The red scorpion with the glowing heart Antares</string>
+    <string name="blurb_lyr">Orpheus\'s harp; home of the bright star Vega</string>
+    <string name="blurb_cyg">A swan gliding along the Milky Way — the Northern Cross</string>
+    <string name="blurb_leo">The celestial lion with the bright heart Regulus</string>
+    <string name="blurb_gem">The twin brothers, Castor and Pollux</string>
+    <string name="blurb_cen">The mythical creature — half man, half horse</string>
+    <string name="blurb_sge">Hercules\'s arrow; among the smallest constellations</string>
+    <string name="blurb_tri">A small triangle in the northern sky</string>
+    <string name="blurb_cma">Home of Sirius, the brightest star in the night sky</string>
+    <string name="blurb_aql">The soaring eagle with the bright star Altair</string>
+    <string name="blurb_tau">The bull\'s head with the famous Pleiades cluster</string>
+    <string name="blurb_peg">The winged horse; its Great Square guides autumn skies</string>
+    <string name="blurb_crb">A jeweled semicircle of neatly aligned stars</string>
+    <string name="blurb_crv">A four-sided crow in the spring sky</string>
+    <string name="blurb_sgr">The archer; the galactic center lies in its direction</string>
+    <string name="blurb_del">A tiny, star-rich dolphin near the celestial equator</string>
+    <string name="blurb_and">The chained princess; host of the Andromeda galaxy</string>
+    <string name="blurb_cet">The sea monster of legend; home of the variable star Mira</string>
+    <string name="blurb_cmi">The hunter\'s little companion with bright Procyon</string>
+    <string name="blurb_lep">The hare at Orion\'s feet; a neat ring of faint stars</string>
+    <string name="blurb_lib">The scales of justice — Mehr\'s balance in Persian lore</string>
+    <string name="blurb_boo">The herdsman with the glowing orange star Arcturus</string>
+    <string name="blurb_her">The legendary hero; his body forms a keystone shape</string>
+    <string name="blurb_dra">The dragon coiled around the pole, between the two bears</string>
+    <string name="terms_title">Terms &amp; Conditions</string>
+    <string name="terms_item_client">This app is a client that aggregates publicly available proxy lists. It hosts no proxy servers of its own.</string>
+    <string name="terms_item_service">No network service is provided by the app itself.</string>
+    <string name="terms_item_region">This app is not offered in regions where such tools are restricted.</string>
+    <string name="terms_item_responsibility">Use is at your own risk and responsibility.</string>
+    <string name="geo_confirm_restricted">I confirm I am not located in a restricted region, and I take personal responsibility for using this app.</string>
+    <string name="geo_confirm_general">I have read and accept the terms above.</string>
+    <string name="privacy_note">Privacy: the app collects nothing personal. Contribution data contains only anonymous check results.</string>
+
+    <string name="onboard_next">Next</string>
+</resources>

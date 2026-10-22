@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">ProxyStar</string>
+    <string name="app_tagline">رفع فیلتر، با یک لمس</string>
+    <string name="hero_loading">درحال بارگذاری</string>
+
+    <string name="discovery_checking">بررسی ستاره‌ها: %1$d از %2$d</string>
+    <string name="discovery_stars_count">%1$s · %2$d ستاره</string>
+
+    <string name="error_connection_title">اتصال برقرار نشد</string>
+    <string name="error_no_sources">اتصال اینترنت را برسی کرده و مجددا تلاش کنید</string>
+    <string name="error_retry">تلاش مجدد</string>
+
+    <string name="current_pick">پیشنهادی</string>
+    <string name="connect_telegram">اتصال به تلگرام</string>
+    <string name="next_pick">پیشنهاد بعدی</string>
+    <string name="no_alive">پروکسی فعالی یافت نشد — دوباره تلاش کند</string>
+    <string name="empty_discovered">در این لحظه پروکسی زنده‌ای یافت نشد — برای بارگذاری مجدد صفحه را پایین بکشید</string>
+
+    <string name="confirm_telegram_msg">درحال انتقال به Telegram هستید. ادامه میدهید؟</string>
+    <string name="confirm_github_msg">درحال انتقال به مخزن پروژه در Github هستید. ادامه میدهید؟</string>
+    <string name="dont_show_again">دیگر نمایش نده</string>
+    <string name="proceed">ادامه</string>
+    <string name="cancel">انصراف</string>
+
+    <string name="action_share">اشتراک‌گذاری</string>
+    <string name="telegram_missing">تلگرام نصب نیست!</string>
+    <string name="share_title">اشتراک‌گذاری پروکسی</string>
+    <string name="dead">قطع</string>
+
+
+    <string name="name_uma">خرس بزرگ</string>
+    <string name="name_umi">خرس کوچک</string>
+    <string name="name_cas">کاسیوپیا</string>
+    <string name="name_ori">جبار</string>
+    <string name="name_sco">عقرب</string>
+    <string name="name_lyr">شلیاق</string>
+    <string name="name_cyg">ماکیان</string>
+    <string name="name_leo">شیر</string>
+    <string name="name_gem">دوقلوها</string>
+    <string name="name_cen">قنطورس</string>
+    <string name="name_sge">پیکان</string>
+    <string name="name_tri">مثلث</string>
+    <string name="name_cma">سگ بزرگ</string>
+    <string name="name_aql">عقاب</string>
+    <string name="name_tau">گاو</string>
+    <string name="name_peg">پگاسوس</string>
+    <string name="name_crb">تاج شمالی</string>
+    <string name="name_crv">کلاغ</string>
+    <string name="name_sgr">کمان‌دار</string>
+    <string name="name_del">دلفین</string>
+    <string name="name_and">اندرومدا</string>
+    <string name="name_cet">نهنگ</string>
+    <string name="name_cmi">سگ کوچک</string>
+    <string name="name_lep">خرگوش</string>
+    <string name="name_lib">ترازو</string>
+    <string name="name_boo">ملاهی</string>
+    <string name="name_her">هرکول</string>
+    <string name="name_dra">اژدها</string>
+
+    <string name="blurb_uma">ملاقهٔ هفت‌ستاره‌ای که راه یافتن ستارهٔ قطبی را نشان می‌دهد</string>
+    <string name="blurb_umi">میزبان ستارهٔ قطبی؛ انتهای دم آن، شمال آسمان را نشان می‌دهد</string>
+    <string name="blurb_cas">ملکهٔ آسمان با شکل W معروف، روبه‌روی خرس بزرگ</string>
+    <string name="blurb_ori">شکارچی افسانه‌ای با کمربند سه‌ستارهٔ یکدست</string>
+    <string name="blurb_sco">عقرب سرخ با قلب درخشانِ شمعک (آنتیارس)</string>
+    <string name="blurb_lyr">چنگ اورفئوس؛ خانهٔ ستارهٔ درخشان وگا</string>
+    <string name="blurb_cyg">ماکیانی بر راه شیری؛ به صلیب شمالی معروف است</string>
+    <string name="blurb_leo">شیر آسمان با قلب روشنِ قلب‌الأسد</string>
+    <string name="blurb_gem">دو برادر افسانه‌ای، کاستور و پولوکس</string>
+    <string name="blurb_cen">موجود افسانه‌ای نیم‌انسان، نیم‌اسب</string>
+    <string name="blurb_sge">پیکان هرکول؛ از کوچک‌ترین صورت‌های فلکی آسمان</string>
+    <string name="blurb_tri">مثلث کوچکی در شمال آسمان</string>
+    <string name="blurb_cma">خانهٔ شعرای یمانی، درخشان‌ترین ستارهٔ آسمان شب</string>
+    <string name="blurb_aql">عقاب زپر با ستارهٔ درخشانِ الزراف (الطائر)</string>
+    <string name="blurb_tau">سر گاو با خوشهٔ معروف پروین؛ شامل شعرای برائهٔ سرخ</string>
+    <string name="blurb_peg">اسب بالدار؛ مربع بزرگش راهنمای پاییز آسمان شمالی است</string>
+    <string name="blurb_crb">هلال‌مانندِ نگین‌دار؛ نیم‌تاجی از ستاره‌های مرتب</string>
+    <string name="blurb_crv">کلاغی چهارگوش در آسمان بهاری، دنبالهٔ جام</string>
+    <string name="blurb_sgr">کمانگیر؛ در راستای آن مرکز راه شیری قرار دارد</string>
+    <string name="blurb_del">دلفینی کوچک اما پرستاره در نزدیکی استوای آسمانی</string>
+    <string name="blurb_and">شاهدخت زنجیری؛ میزبان کهکشان آندرومدا</string>
+    <string name="blurb_cet">هیولای دریایی افسانه؛ ستارهٔ متغیر معروفِ مِیرا در آن می‌درخشد</string>
+    <string name="blurb_cmi">دوست کوچک شکارچی؛ با ستارهٔ روشن شعرای غمیض</string>
+    <string name="blurb_lep">شکارِ پای جبار؛ حلقه‌ای کوچک از ستاره‌های کم‌نور اما مرتب</string>
+    <string name="blurb_lib">ترازوی عدالت؛ در باور کهن ایرانی، ترازوی مِهر</string>
+    <string name="blurb_boo">چوپان گاوها؛ با ستارهٔ نارنجی درخشانِ عطار (آرکتوروس)</string>
+    <string name="blurb_her">قهرمان افسانه‌ای؛ چهارضلعی بدنش ستون فقرات این شکل است</string>
+    <string name="blurb_dra">اژدهایی که دور قطب آسمان می‌پیچد؛ میان دو خرس</string>
+
+    <string name="terms_title">قوانین و مقررات</string>
+    <string name="terms_item_client">این اپ یک کلاینت تجمیع‌کنندهٔ لیست‌های عمومی پروکسی است و هیچ سروری را میزبانی نمی‌کند.</string>
+    <string name="terms_item_service">هیچ سرویس شبکه‌ای توسط خود اپ ارائه نمی‌شود.</string>
+    <string name="terms_item_region">این اپ در مناطقی که چنین ابزارهایی محدودند ارائه نمی‌شود.</string>
+    <string name="terms_item_responsibility">استفاده بر عهده و مسئولیت خود کاربر است.</string>
+    <string name="geo_confirm_restricted">تأیید می‌کنم در منطقهٔ محدودشده قرار ندارم و مسئولیت استفادهٔ شخصی از این اپ را میپذیرم.</string>
+    <string name="geo_confirm_general">قوانین بالا را خواندم و می‌پذیرم.</string>
+    <string name="privacy_note">حریم خصوصی: ProxyStar هیچ دادهٔ شخصی جمع نمی‌کند. </string>
+    <string name="onboard_next">ادامه</string>
+</resources>
