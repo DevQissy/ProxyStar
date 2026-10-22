@@ -6,7 +6,7 @@
 
 An Android app for discovering proxy servers, checking connectivity, and comparing connections using network measurements.
 
-[Download APK](https://github.com/DevQissy/ProxyStar/releases/latest) · [Telegram Channel](https://t.me/Proxystar_Channel) · [Report an Issue](https://github.com/DevQissy/ProxyStar/issues)
+[Download APK](https://github.com/DevQissy/ProxyStar/releases/latest) · [Report an Issue](https://github.com/DevQissy/ProxyStar/issues)
 
 </div>
 
@@ -24,7 +24,6 @@ ProxyStar collects proxy entries from configured public sources and helps evalua
 - **Quality-based sorting** — helps compare entries using test results.
 - **Network-aware comparison** — results can differ by region, operator, routing, and changing network conditions.
 - **Large server lists** — designed to process large collections of proxy entries when source data is available.
-- **Telegram updates** — follow the channel for project news and automated reports.
 
 Test results are snapshots, not guarantees. A reachable server or low ping does not guarantee that every app or service will work through that proxy.
 
@@ -69,7 +68,6 @@ For details about the app's actual data collection and handling, review the curr
 - **Repository:** https://github.com/DevQissy/ProxyStar
 - **Latest APK:** https://github.com/DevQissy/ProxyStar/releases/latest
 - **All releases:** https://github.com/DevQissy/ProxyStar/releases
-- **Telegram:** https://t.me/Proxystar_Channel
 - **Issues:** https://github.com/DevQissy/ProxyStar/issues
 
 ## License
