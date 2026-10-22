@@ -64,7 +64,6 @@ Viewing the repository does not grant permission to copy, modify, redistribute, 
 
 - **GitHub repository:** https://github.com/DevQissy/ProxyStar
 - **Latest APK:** https://github.com/DevQissy/ProxyStar/releases/latest
-- **Telegram:** https://t.me/Proxystar_Channel
 - **Issues:** https://github.com/DevQissy/ProxyStar/issues
 
 ---
